@@ -7,7 +7,6 @@ import {
   SYLLABLE_MAP,
   VOWELS,
 } from "./characters";
-import { mapValues } from "./misc";
 
 describe("characters", () => {
   it("CONSONANTS", () => {
