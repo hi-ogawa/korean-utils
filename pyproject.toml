@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python"
+name = "korean-utils"
 version = "0.1.0"
 description = ""
 authors = ["Hiroshi Ogawa <hi.ogawa.zz@gmail.com>"]
