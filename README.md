@@ -6,6 +6,10 @@ misc utilities to manipulate Korean letters
 # development
 pnpm i
 pnpm test
+
+# python
+poetry install
+poetry run python -m spacy download ko_core_news_lg
 ```
 
 ## references
